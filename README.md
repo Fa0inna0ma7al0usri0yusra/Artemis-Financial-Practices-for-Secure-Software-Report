@@ -11,15 +11,15 @@ Artemis Financial is a financial services company seeking to improve the securit
 
 What I Did Well
 
-    Identified security risks related to data integrity, plaintext communication, and third-party dependencies
+- Identified security risks related to data integrity, plaintext communication, and third-party dependencies
 
-    Implemented SHA-256 hashing to verify data integrity
+- Implemented SHA-256 hashing to verify data integrity
 
-    Enabled HTTPS with SSL certificates to secure data in transit
+- Enabled HTTPS with SSL certificates to secure data in transit
 
-    Applied secure coding standards to reduce overall risk
+- Applied secure coding standards to reduce overall risk
 
-  Secure coding is critical because it protects customer data, reduces breach   risk, and supports organizational trust and compliance.
+ Secure coding is critical because it protects customer data, reduces breach   risk, and supports organizational trust and compliance.
 
 Challenges & Learning
 
@@ -27,10 +27,10 @@ Challenges & Learning
 
 Security Layers & Tools
 
-    Cryptographic hashing (SHA-256)
-    Encrypted communication (SSL/HTTPS)
-    Static analysis using OWASP Dependency-Check
-    Manual code review and functional testing
+- Cryptographic hashing (SHA-256)
+- Encrypted communication (SSL/HTTPS)
+- Static analysis using OWASP Dependency-Check
+- Manual code review and functional testing
 
   These layered controls improve defense-in-depth and application resilience.
 
@@ -38,17 +38,17 @@ Testing & Validation
 
   After refactoring, the application was tested to confirm:
   
-    Successful compilation and execution without errors
-    Correct checksum generation
-    Secure HTTPS communication
-    No new vulnerabilities introduced
+- Successful compilation and execution without errors
+- Correct checksum generation
+- Secure HTTPS communication
+- No new vulnerabilities introduced
 
 
 Professional Value
 
   This project demonstrates my ability to:
   
-    Perform vulnerability assessments
-    Secure Java-based applications
-    Apply industry security standards
-    Document security solutions clearly for stakeholders
+- Perform vulnerability assessments
+- Secure Java-based applications
+- Apply industry security standards
+- Document security solutions clearly for stakeholders
